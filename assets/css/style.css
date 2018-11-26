@@ -3,9 +3,8 @@
 }
 
 body {
-    text-align: left;
-    margin-bottom: 60px;
-    background-image: url(https://audit-invest.com.ua/wp-content/uploads/2017/06/Savin-NY-Website-Background-Web1-kopiya.jpg);
+    
+    background-image: url("/assets/images/webpagebg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover
